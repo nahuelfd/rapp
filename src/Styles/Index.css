@@ -1,0 +1,68 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  min-height: calc(100vh - (100px + 100px));
+}
+
+.pSize{
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+}
+
+.button{
+  margin-top: 25px;
+  align-items: center;
+  text-align: center;
+}
+
+.backnumber{
+  background-color: white;
+  color: black;
+  padding: auto;
+  margin: auto;
+}
+
+.butnav{
+  color: black;
+  text-decoration: solid;
+  font-weight: 990;
+}
+
+.backnav{
+  background-color: white;
+}
+
+.backbut{
+  background-color: white;
+  text-decoration: solid;
+  color: black;
+  font-weight: bold;
+}
+
+.divf{
+  display: flex;
+  position: relative;
+  margin-bottom: 0%;
+}
+
+.foot{
+  
+  background-image: linear-gradient(to right bottom, white, black, black, white);
+  color: white;
+  text-align: center;
+  text-decoration: solid;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 0%;
+  position:absolute;
+  width: 100%;
+  align-items: flex-end;
+  border-bottom: 0%;
+  
+
+}
+
+.divcart{
+  font-size: 10px;
+  text-align: center;
+  font-weight: bold;
+}
